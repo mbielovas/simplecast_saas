@@ -8,6 +8,9 @@ gem 'rails', '6.0.1'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', group: [:development, :test]
 
+#use bootstrap librarary for style: 
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+
 #Use postgresql as the database for production
 group :production do
     gem 'pg' 

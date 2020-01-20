@@ -11,6 +11,9 @@ gem 'sqlite3', group: [:development, :test]
 #use bootstrap librarary for style: 
 #gem 'bootstrap', '~> 4.4.1'
 
+#Use font awosme library: 
+gem 'font-awesome-sass', '~> 5.12.0'
+
 
 
 
